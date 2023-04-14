@@ -1,0 +1,8 @@
+C:\Users\davil\OneDrive\Escritorio\C#\Convertidor de monedas cnl\Convertidor de monedas cnl\bin\Debug\Convertidor de monedas cnl.exe.config
+C:\Users\davil\OneDrive\Escritorio\C#\Convertidor de monedas cnl\Convertidor de monedas cnl\bin\Debug\Convertidor de monedas cnl.exe
+C:\Users\davil\OneDrive\Escritorio\C#\Convertidor de monedas cnl\Convertidor de monedas cnl\bin\Debug\Convertidor de monedas cnl.pdb
+C:\Users\davil\OneDrive\Escritorio\C#\Convertidor de monedas cnl\Convertidor de monedas cnl\obj\Debug\Convertidor de monedas cnl.csproj.AssemblyReference.cache
+C:\Users\davil\OneDrive\Escritorio\C#\Convertidor de monedas cnl\Convertidor de monedas cnl\obj\Debug\Convertidor de monedas cnl.csproj.SuggestedBindingRedirects.cache
+C:\Users\davil\OneDrive\Escritorio\C#\Convertidor de monedas cnl\Convertidor de monedas cnl\obj\Debug\Convertidor de monedas cnl.csproj.CoreCompileInputs.cache
+C:\Users\davil\OneDrive\Escritorio\C#\Convertidor de monedas cnl\Convertidor de monedas cnl\obj\Debug\Convertidor de monedas cnl.exe
+C:\Users\davil\OneDrive\Escritorio\C#\Convertidor de monedas cnl\Convertidor de monedas cnl\obj\Debug\Convertidor de monedas cnl.pdb
